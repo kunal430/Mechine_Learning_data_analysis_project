@@ -1,7 +1,7 @@
 House Price Prediction Using Linear Regression
 
 # Description
-This project predicts house prices based on features like size, number of bedrooms, and house age.
+This project predicts house prices based on features like Avg. Area Income, Avg. Area Number of Bedrooms, Avg. Area House Age.
 
 # How to Run
 1. Clone the repository: `git clone <https://github.com/kunal430/Mechine_Learning_data_analysis_project>`
